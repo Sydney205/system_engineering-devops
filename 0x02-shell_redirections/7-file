@@ -1,3 +1,2 @@
 #!/bin/bash
-# Create a file with unusual characters containing the text 'Best School'
 echo "Best School" > '*\"Best School"'*$?*****:)'
