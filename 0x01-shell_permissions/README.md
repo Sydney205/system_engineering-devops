@@ -1,4 +1,4 @@
-# 0x01-shell_permissions
+#!/bin/bash
 
 Scripts to practice Linux file & directory permissions.
 
